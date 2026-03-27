@@ -2,7 +2,7 @@
 <div align="center">
 
 
-###MOHAN KUMAR
+OHAN KUMAR
 
 ### Fullstack Developer
 
