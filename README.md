@@ -1,9 +1,8 @@
 [README_2.md](https://github.com/user-attachments/files/26295328/README_2.md)
 <div align="center">
 
-```
-MOHAN KUMAR
-```
+
+###MOHAN KUMAR
 
 ### Fullstack Developer
 
