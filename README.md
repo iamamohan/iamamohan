@@ -1,14 +1,30 @@
 
 <div align="center">
 
-<h1 style="
-  font-family: 'Playfair Display', serif;
-  font-size: 64px;
-  letter-spacing: 1px;
-  text-align: center;
-">
-  MOHAN KUMAR
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
+</head>
+
+<body style="background:black; display:flex; justify-content:center; align-items:center; height:100vh;">
+
+  <h1 style="
+    font-family: 'Playfair Display', serif;
+    font-size: 72px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #f5f5dc;
+    text-align: center;
+  ">
+    MOHAN KUMAR
+  </h1>
+
+</body>
+</html>
 
 
 ### Fullstack Developer
