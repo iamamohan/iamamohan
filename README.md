@@ -1,73 +1,62 @@
-[Uploading README (2).md…]()
-# 👋 Hi, I'm Mohan Kumar  
+[Mohan_Kumar_Profile_README.md](https://github.com/user-attachments/files/26294049/Mohan_Kumar_Profile_README.md)
+<!-- HERO SECTION -->
+<h1 align="center">MOHAN KUMAR</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;JavaScript+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Clean+UI+%7C+Efficient+Code;Always+Learning+New+Tech" />
 </p>
 
 ---
-
-## 💻 About Me  
-💡 Passionate Full Stack Developer  
-🚀 Focused on responsive & user-friendly web apps  
-📚 Continuously improving my skills  
-🤝 Open to collaboration  
-
----
-
-## 🔧 Tech Stack  
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⚡ Programming
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imamohan&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=header"/>
 </p>
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imamohan&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python&theme=light" />
 </p>
 
 ---
 
-## 🌱 Currently Learning  
-- 🔥 Advanced JavaScript  
-- 🧠 Backend Development  
-- 🚀 Full Stack Projects  
+## 📌 About Me
+
+- 💻 Full Stack Developer passionate about building modern web apps  
+- 🎯 Focused on clean design and responsive UI  
+- 📚 Continuously improving skills in frontend & backend  
+- 🤝 Open to collaboration and real-world projects  
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Contact Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohan-kumar-sa-a26769299">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohanannamalai5353@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-📧 **Email:** mohanannamalai5353@gmail.com  
-
 ---
 
-## ⚡ Fun Touch  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imamohan&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
 </p>
 
 ---
-⭐ *“Code. Create. Innovate.”*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+</p>
+
+---
+
+<p align="center">⭐ Code. Build. Repeat.</p>
