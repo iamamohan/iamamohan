@@ -1,6 +1,9 @@
 [Mohan_Kumar_Profile_README.md](https://github.com/user-attachments/files/26294049/Mohan_Kumar_Profile_README.md)
 <!-- HERO SECTION -->
-<h1 align="center">MOHAN KUMAR</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&size=70&duration=3000&lines=MOHAN+KUMAR" />
+</p>
+
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
