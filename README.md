@@ -1,7 +1,7 @@
-<h1 style="font-family: 'Unbounded', sans-serif; font-size: 48px; text-center">MOHAN KUMAR</h1>
-[README_2.md](https://github.com/user-attachments/files/26295520/README_2.md)
+
 <div align="center">
 
+<h1 style="font-family: 'Unbounded', sans-serif; font-size: 48px; text-center">MOHAN KUMAR</h1>
 
 
 ### Fullstack Developer
