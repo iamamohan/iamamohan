@@ -1,7 +1,14 @@
 
 <div align="center">
 
-<h1 style="font-family: 'Unbounded', sans-serif; font-size: 48px; text-center">MOHAN KUMAR</h1>
+<h1 style="
+  font-family: 'Playfair Display', serif;
+  font-size: 64px;
+  letter-spacing: 1px;
+  text-align: center;
+">
+  MOHAN KUMAR
+</h1>
 
 
 ### Fullstack Developer
